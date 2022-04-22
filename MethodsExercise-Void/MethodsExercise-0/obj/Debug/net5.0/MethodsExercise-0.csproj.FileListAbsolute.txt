@@ -1,0 +1,16 @@
+F:\Repos\MethodsExercise-0\MethodsExercise-0\bin\Debug\net5.0\MethodsExercise-0.exe
+F:\Repos\MethodsExercise-0\MethodsExercise-0\bin\Debug\net5.0\MethodsExercise-0.deps.json
+F:\Repos\MethodsExercise-0\MethodsExercise-0\bin\Debug\net5.0\MethodsExercise-0.runtimeconfig.json
+F:\Repos\MethodsExercise-0\MethodsExercise-0\bin\Debug\net5.0\MethodsExercise-0.runtimeconfig.dev.json
+F:\Repos\MethodsExercise-0\MethodsExercise-0\bin\Debug\net5.0\MethodsExercise-0.dll
+F:\Repos\MethodsExercise-0\MethodsExercise-0\bin\Debug\net5.0\MethodsExercise-0.pdb
+F:\Repos\MethodsExercise-0\MethodsExercise-0\obj\Debug\net5.0\MethodsExercise-0.csproj.AssemblyReference.cache
+F:\Repos\MethodsExercise-0\MethodsExercise-0\obj\Debug\net5.0\MethodsExercise-0.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repos\MethodsExercise-0\MethodsExercise-0\obj\Debug\net5.0\MethodsExercise-0.AssemblyInfoInputs.cache
+F:\Repos\MethodsExercise-0\MethodsExercise-0\obj\Debug\net5.0\MethodsExercise-0.AssemblyInfo.cs
+F:\Repos\MethodsExercise-0\MethodsExercise-0\obj\Debug\net5.0\MethodsExercise-0.csproj.CoreCompileInputs.cache
+F:\Repos\MethodsExercise-0\MethodsExercise-0\obj\Debug\net5.0\MethodsExercise-0.dll
+F:\Repos\MethodsExercise-0\MethodsExercise-0\obj\Debug\net5.0\refint\MethodsExercise-0.dll
+F:\Repos\MethodsExercise-0\MethodsExercise-0\obj\Debug\net5.0\MethodsExercise-0.pdb
+F:\Repos\MethodsExercise-0\MethodsExercise-0\obj\Debug\net5.0\MethodsExercise-0.genruntimeconfig.cache
+F:\Repos\MethodsExercise-0\MethodsExercise-0\obj\Debug\net5.0\ref\MethodsExercise-0.dll
