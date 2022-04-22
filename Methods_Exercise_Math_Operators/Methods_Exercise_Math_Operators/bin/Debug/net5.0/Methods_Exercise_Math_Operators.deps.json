@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Methods_Exercise_Math_Operators/1.0.0": {
+        "runtime": {
+          "Methods_Exercise_Math_Operators.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Methods_Exercise_Math_Operators/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

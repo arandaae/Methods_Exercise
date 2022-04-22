@@ -8,6 +8,7 @@ namespace MethodExercise
         static void Main(string[] args)
         {
             storyElements.UserResponses();
+            
             //storyElements.ComputerResponse();
         }
     }
