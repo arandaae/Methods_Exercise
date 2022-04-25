@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Repos\\MethodsExercise-0\\MethodsExercise-0\\MethodsExercise-0.csproj": {}
+    "F:\\Repos\\MethodExercise\\MethodsExercise-Void\\MethodsExercise-0\\MethodsExercise-0.csproj": {}
   },
   "projects": {
-    "F:\\Repos\\MethodsExercise-0\\MethodsExercise-0\\MethodsExercise-0.csproj": {
+    "F:\\Repos\\MethodExercise\\MethodsExercise-Void\\MethodsExercise-0\\MethodsExercise-0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Repos\\MethodsExercise-0\\MethodsExercise-0\\MethodsExercise-0.csproj",
+        "projectUniqueName": "F:\\Repos\\MethodExercise\\MethodsExercise-Void\\MethodsExercise-0\\MethodsExercise-0.csproj",
         "projectName": "MethodsExercise-0",
-        "projectPath": "F:\\Repos\\MethodsExercise-0\\MethodsExercise-0\\MethodsExercise-0.csproj",
+        "projectPath": "F:\\Repos\\MethodExercise\\MethodsExercise-Void\\MethodsExercise-0\\MethodsExercise-0.csproj",
         "packagesPath": "C:\\Users\\arand\\.nuget\\packages\\",
-        "outputPath": "F:\\Repos\\MethodsExercise-0\\MethodsExercise-0\\obj\\",
+        "outputPath": "F:\\Repos\\MethodExercise\\MethodsExercise-Void\\MethodsExercise-0\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arand\\AppData\\Roaming\\NuGet\\NuGet.Config",

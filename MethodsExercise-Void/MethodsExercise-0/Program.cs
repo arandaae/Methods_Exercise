@@ -6,6 +6,7 @@ namespace MethodsExercise_0
     {
         static void Main(string[] args)
         {
+            Console.Title = "Math Operators";
             Console.WriteLine("Math Operators");
             Add();
             Console.WriteLine();
